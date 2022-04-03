@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexOrgeJr065
 - 👀 I’m interested in making a website using the computer languages HTML, CSS, and JS.
-- 🌱 I’m currently learning C++ and CSS
+- 🌱 I’m currently learning these computer languages such as C++ and CSS.
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me is by my email alexorgejr1107@gmail.com.
 
